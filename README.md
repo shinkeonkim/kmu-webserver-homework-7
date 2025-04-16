@@ -1,5 +1,4 @@
-# Django의 django.contrib.auth 를 활용한 로그인 / 로그아웃
-기능 실습
+# Django의 django.contrib.auth 를 활용한 로그인 / 로그아웃기능 실습
 
 ## 제출 내용
 
